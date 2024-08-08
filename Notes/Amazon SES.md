@@ -1,0 +1,1 @@
+- [Amazon SES（高可用性で低価格なEメール送信サービス）| AWS](https://aws.amazon.com/jp/ses/)

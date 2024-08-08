@@ -1,0 +1,12 @@
+- コンソールで利用可能な AWS Artifact は、お客様に AWS のコンプライアンスドキュメントと AWS 契約へのオンデマンドのアクセスを提供する、セルフサービスによる監査アーティファクト検索ポータル
+- AWS Artifact Reports を使用し、AWS セキュリティおよびコンプライアンスのドキュメントをダウンロードできる
+	- AWS ISO 認定
+	- Payment Card Industry (PCI) レポート
+	- System and Organization Control (SOC) レポート
+- AWS Artifact Agreements を使用し、事業提携契約 (BAA) のような AWS 契約の状況を確認、受諾、追跡できる
+- 無料でセルフサービス型の、AWSコンプライアンスレポートのダウンロードサービス
+- 第三者による監査レポートをダウンロードできる
+- AWSの安心、安全性を顧客と共有し証明する
+- 様々な分野にわたっている
+- [よくある質問 - AWS Artifact | AWS](https://aws.amazon.com/jp/artifact/faq/#General)
+- [Site Unreachable](https://aws.amazon.com/jp/artifact/)

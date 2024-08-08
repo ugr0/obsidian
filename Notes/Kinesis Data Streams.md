@@ -1,0 +1,1 @@
+- [よくある質問 - Aamzon Kinesis Data Streams | AWS](https://aws.amazon.com/jp/kinesis/data-streams/faqs/)

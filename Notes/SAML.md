@@ -1,0 +1,4 @@
+- Security Assertion Markup Language
+- 異なるインターネットドメイン間でユーザー認証を行うためのXMLをベースにした標準規格
+- 認証情報を提供する側を[[IdP]]とよび、認証情報を利用する側を[[SP]]と呼ぶ
+- [SAMLとは ｜クラウド型シングルサインオン・アクセスコントロール（IDaaS） OneLogin - サイバネット](https://www.cybernet.co.jp/onelogin/function/saml.html)

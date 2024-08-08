@@ -1,0 +1,2 @@
+- webpack や rollup などのバンドラーはバンドル時に実行されないコードを削除します。
+- [Tree Shaking | webpack](https://webpack.js.org/guides/tree-shaking/)

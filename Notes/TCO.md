@@ -1,0 +1,2 @@
+- Total Cost of Ownership
+- 総保有コスト

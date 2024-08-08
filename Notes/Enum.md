@@ -1,0 +1,1 @@
+- [PHPに詳しいアンミカ「Enumって2種類あんねん」](https://zenn.dev/manalink_dev/articles/7ee52f56020154)

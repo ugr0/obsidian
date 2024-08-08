@@ -1,0 +1,3 @@
+- [PHPStanクイックガイド2023](https://zenn.dev/pixiv/articles/7467448592862e)
+- [rules.md](https://github.com/larastan/larastan/blob/2.x/docs/rules.md)
+- [リリースして11年経過したPHPアプリケーションにPHPStanを導入した - Chatwork Creator's Note](https://creators-note.chatwork.com/entry/2022/05/24/084828#baseline%E3%82%92%E4%BD%9C%E6%88%90%E3%81%97%E6%97%A2%E5%AD%98%E3%81%AE%E3%82%A8%E3%83%A9%E3%83%BC%E3%81%AF%E6%A4%9C%E7%9F%A5%E5%AF%BE%E8%B1%A1%E5%A4%96%E3%81%AB%E3%81%99%E3%82%8B)

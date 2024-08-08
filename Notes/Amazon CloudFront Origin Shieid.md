@@ -1,0 +1,2 @@
+- [[オリジン]]の前に追加のキャッシュレイヤーを提供し、キャッシュヒット率を向上することで、オリジンの負荷を最小限に抑え、可用性を向上させ、運用コストを削減するために役立つ
+- [Amazon CloudFront Origin Shield の使用 - Amazon CloudFront](https://docs.aws.amazon.com/ja_jp/AmazonCloudFront/latest/DeveloperGuide/origin-shield.html)

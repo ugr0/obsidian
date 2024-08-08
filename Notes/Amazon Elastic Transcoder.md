@@ -1,0 +1,2 @@
+- [[Amazon S3]]上に保存されたメディアファイルを変換するためのサービス
+- [Amazon Elastic Transcoder（スケーラブルで使いやすいメディア変換サービス）| AWS](https://aws.amazon.com/jp/elastictranscoder/)

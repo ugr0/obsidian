@@ -1,0 +1,3 @@
+- コンテナ向けのサーバーレスコンピューティングエンジン。
+- [[Amazon ECS]]と[[EKS]]の両方で動作する
+- [Fargate で Amazon ECS サービスの Auto Scaling を設定する | AWS re:Post](https://repost.aws/ja/knowledge-center/ecs-fargate-service-auto-scaling)

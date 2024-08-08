@@ -1,0 +1,1 @@
+- [AWS Auto Scaling（需要に合わせて複数のリソースをスケール）| AWS](https://aws.amazon.com/jp/autoscaling/)

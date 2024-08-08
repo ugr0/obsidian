@@ -1,0 +1,2 @@
+- [Laravel Dusk - Laravel 11.x - The PHP Framework For Web Artisans](https://laravel.com/docs/11.x/dusk)
+- 表現力豊かで使いやすいブラウザ自動化およびテスト API を提供します。デフォルトでは、Dusk ではローカル コンピュータに JDK または Selenium をインストールする必要はありません。代わりに、Dusk はスタンドアロンの[ChromeDriver](https://sites.google.com/chromium.org/driver)インストールを使用します。

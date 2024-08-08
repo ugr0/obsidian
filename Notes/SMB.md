@@ -1,0 +1,2 @@
+- Server Message Block
+- [SMB（プロトコル）とは【用語集詳細】](https://www.sompocybersecurity.com/column/glossary/smb)

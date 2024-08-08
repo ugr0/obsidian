@@ -1,0 +1,15 @@
+- AWS Elastic Beanstalk 環境は、アプリケーションバージョンを実行する AWS リソースのコレクション。
+- アプリケーションの複数のバージョンを実行する必要がある場合は、複数の環境をデプロイできる
+	- 例えば、開発環境、統合環境、本番環境などが共存する場合
+- 似ているサービスとして[[AWS Amplify]]がある。
+	- 違いとしては、Elastic Beanstalkの方は、インフラストラクチャのデプロイ・管理の簡略化と迅速化が目的となる。
+- 環境枠
+	- webサーバー環境枠
+	- ワーカー環境枠
+- Auto Scalingをサポートしている
+- [AWS Elastic Beanstalk（ウェブアプリの実行と管理）| AWS](https://aws.amazon.com/jp/elasticbeanstalk/)
+- [Elastic Beanstalk 環境の作成 - AWS Elastic Beanstalk](https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/using-features.environments.html)
+- [デプロイポリシーと設定 - AWS Elastic Beanstalk](https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/using-features.rolling-version-deploy.html)
+	- [[ローリングデプロイ]]
+	- [[トラフィック分割デプロイ]]
+ - [設定ファイル (.ebextensions) による高度な環境のカスタマイズ - AWS Elastic Beanstalk](https://docs.aws.amazon.com/ja_jp/elasticbeanstalk/latest/dg/ebextensions.html)

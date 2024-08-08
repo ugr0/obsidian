@@ -1,0 +1,3 @@
+- Apache Cassandra互換性のマネージドデータベースサービス
+- サーバーレス
+- [[Cassandra]]

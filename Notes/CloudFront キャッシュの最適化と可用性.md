@@ -1,0 +1,9 @@
+- Cached HTTPメソッド
+- Cache Based on Selected Request Headers
+- Object Caching
+	- デフォルトで24時間でキャッシュが切れるようになっている
+	- キャッシュ時間の制御
+		- Use Origin Cache Headers
+		- Customize
+- Forward Cookies
+- Query String Forwarding and Caching

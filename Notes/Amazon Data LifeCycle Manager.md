@@ -1,0 +1,3 @@
+- [[Amazon EBS]]スナップショットと、EBS-backed AMIの作成、保持、削除を自動化できる。
+- バックアップに失敗した時に、設定した世代管理の数だけ直近のバックアップが残る。
+- [Amazon Data Lifecycle Manager - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/snapshot-lifecycle.html)

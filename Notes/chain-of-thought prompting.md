@@ -1,0 +1,1 @@
+- [Chain-of-Thoughtプロンプティング | Prompt Engineering Guide<!-- -->](https://www.promptingguide.ai/jp/techniques/cot)

@@ -1,0 +1,1 @@
+- [direnvを使うときは環境変数を.envrcに書くより.envに書いた方が使い勝手が良い - ぷらすのブログ](https://blog.p1ass.com/posts/direnv-dotenv/)

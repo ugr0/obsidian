@@ -1,0 +1,2 @@
+- [[Amazon RDS]]や[[Amazon Redshift]]といったデータベースサービスをはじめ、ストレージサービスの[[Amazon S3]]や[[Amazon Athena]]などと連携して、データをダッシュボードで可視化することができる
+- [Amazon QuickSight（あらゆるデバイスからアクセス可能な高速BIサービス）| AWS](https://aws.amazon.com/jp/quicksight/)

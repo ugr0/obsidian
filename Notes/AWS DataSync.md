@@ -1,0 +1,16 @@
+- オンプレミス環境のストレージとAWSのストレージサービスとの間で、データを高速に転送できるサービス
+- 通常インターネットまたは[[AWS Direct Connect]]経由で転送するが、[[AWS Direct Connect]]で許容できる場合は、そっちですることがほとんど
+- 転送先がAWSサービスなら、IAM権限やセキュリティグループの許可がいる
+- 中断に対処することができる([[AWS Transfer Family]]は中断可能なニーズには向かない）
+- 転送先のストレージサービス
+	- [[Amazon S3]]
+	- [[Amazon EFS]]
+	- [[Amazon FSx for Windows File Server]]
+- 具体的な手順
+	- DataSyncエージェントデプロイ
+	- 転送ソース設定
+	- 転送ターゲット設定・作成
+	- データ転送タスク開始
+- オフラインで転送する場合には[[AWS Snowball]]を使用する
+
+- [よくある質問 - AWS DataSync | AWS](https://aws.amazon.com/jp/datasync/faqs/)

@@ -1,0 +1,1 @@
+- [どんな時にクラスを final と宣言するのか #PHP - Qiita](https://qiita.com/sj-i/items/2c3d548079522da1b0e9)

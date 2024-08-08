@@ -1,0 +1,1 @@
+- [SSL終端 | Okta](https://help.okta.com/oag/ja-jp/Content/Topics/Access-Gateway/about-oag-ssl-term.htm)

@@ -1,0 +1,1 @@
+- [Few-Shotプロンプティング | Prompt Engineering Guide<!-- -->](https://www.promptingguide.ai/jp/techniques/fewshot)

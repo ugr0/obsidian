@@ -1,0 +1,2 @@
+- [Local cache | Docker Docs](https://docs.docker.com/build/cache/backends/local/)
+- キャッシュをファイル システム上のディレクトリにファイルとして保存する単純なキャッシュ オプション。

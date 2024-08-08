@@ -1,0 +1,1 @@
+- [AWS Snowcone | アマゾン ウェブ サービス](https://aws.amazon.com/jp/snowcone/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc)

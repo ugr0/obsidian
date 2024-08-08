@@ -1,0 +1,6 @@
+- AWSアカウントにおけるセキュリティの状態と、セキュリティのベストプラクティスに準拠しているかどうかを包括的に把握する機能を提供する
+- [AWS Security Hubとは？ - AWS Security Hub](https://docs.aws.amazon.com/ja_jp/securityhub/latest/userguide/what-is-securityhub.html)
+- チェックの基準となるベストプラクティス
+	- [Center for Internet Security (CIS) AWS Foundations Benchmark v1.2.0 および v1.4.0 - AWS Security Hub](https://docs.aws.amazon.com/ja_jp/securityhub/latest/userguide/cis-aws-foundations-benchmark.html)
+	- [Payment Card Industry Data Security Standard (PCI DSS) - AWS Security Hub](https://docs.aws.amazon.com/ja_jp/securityhub/latest/userguide/pci-standard.html)
+	- [セキュリティ - AWS Well-Architected フレームワーク](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-23/wat.pillar.security.ja.html)

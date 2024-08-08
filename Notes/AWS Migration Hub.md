@@ -1,0 +1,12 @@
+- オンプレミス環境などで稼働する既存サーバーをAWSに移行する際の移行対象や、移行計画、移行ステータスを一元に管理するための機能を提供するサービス
+- [AWS Migration Hub（複数の移行の追跡を 1 か所から実行）| AWS](https://aws.amazon.com/jp/migration-hub/)
+- フローの検出と移行は、他のAWSサービスを使う必要がある
+	- 検出
+		- Migration Hub インポート
+		- [[Migration Evaluator Collector]]
+		- [[AWS Agentless Discovery Connector]]
+		- [[AWS Application Discovery Agent]]
+	- 移行
+		- [[AWS MGN]]
+		- [[AWS SMS]]
+		- [[AWS DMS]]

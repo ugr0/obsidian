@@ -1,0 +1,1 @@
+- [コレクション | Microsoft Learn](https://learn.microsoft.com/ja-jp/collections/rqymc6yw8q5rey?WT.mc_id=AZ-MVP-5005287)

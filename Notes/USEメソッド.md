@@ -1,0 +1,2 @@
+Utilization, Saturation, Errors
+キューとそれを処理するジョブで構成されているアプリケーションに有効。

@@ -1,0 +1,1 @@
+- [Amazon EC2 インスタンスストア - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/InstanceStorage.html)

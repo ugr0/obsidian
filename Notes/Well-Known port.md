@@ -1,0 +1,1 @@
+[TCP/UDPポート番号一覧](https://www.infraexpert.com/study/tea5.htm)

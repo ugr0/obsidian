@@ -1,0 +1,1 @@
+- セキュリティグループをはじめ、[[AWS WAF]]や[[AWS Shield]], [[AWS Network Firewall]]などのルールや設定を一元管理できるサービス

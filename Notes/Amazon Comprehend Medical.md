@@ -1,0 +1,2 @@
+- 医療テキストから健康データを理解して抽出する
+- [Amazon Comprehend Medical | AWS](https://aws.amazon.com/jp/comprehend/medical/)

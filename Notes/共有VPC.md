@@ -1,0 +1,1 @@
+- [VPC を他のアカウントと共有する - Amazon Virtual Private Cloud](https://docs.aws.amazon.com/ja_jp/vpc/latest/userguide/vpc-sharing.html)

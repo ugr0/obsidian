@@ -1,0 +1,1 @@
+- [What is LDAP (Lightweight Directory Access Protocol)?](https://www.techtarget.com/searchmobilecomputing/definition/LDAP#:~:text=Writer%20and%20Editor-,What%20is%20LDAP%20(Lightweight%20Directory%20Access%20Protocol)%3F,internet%20or%20a%20corporate%20intranet.)

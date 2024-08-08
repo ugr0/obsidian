@@ -1,0 +1,2 @@
+- サーバーを占有する。
+- [Site Unreachable](https://aws.amazon.com/jp/ec2/dedicated-hosts/)

@@ -1,0 +1,1 @@
+- [Laravel Passport - Laravel 10.x - The PHP Framework For Web Artisans](https://laravel.com/docs/10.x/passport)

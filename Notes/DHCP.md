@@ -1,0 +1,3 @@
+- Dynamic Host Configuration Protocol
+-  IPv4ネットワークにおいて通信用の基本的な設定を自動的に行うためのプロトコルです。 RFC2131によって定義。
+- [インターネット用語1分解説～DHCPとは～ - JPNIC](https://www.nic.ad.jp/ja/basics/terms/dhcp.html)

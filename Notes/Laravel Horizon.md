@@ -1,0 +1,1 @@
+- [Fetching Title#6wqu](https://laravel.com/docs/10.x/horizon)

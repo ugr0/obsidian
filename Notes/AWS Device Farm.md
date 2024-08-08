@@ -1,0 +1,2 @@
+- モバイルアプリやWebアプリケーションをテストするために、実際の電話やタブレットの環境を提供するサービス
+- [AWS Device Farm （AWS クラウドで実際のデバイスを使用してアプリをテスト） | AWS](https://aws.amazon.com/jp/device-farm/)

@@ -1,0 +1,1 @@
+- [Fetching Title#7phr](https://laravel.com/docs/10.x/scout)

@@ -1,0 +1,2 @@
+- [Cloudflare Turnstile · Cloudflare Turnstile docs](https://developers.cloudflare.com/turnstile/)
+- [hCaptcha - Stop more bots. Start protecting privacy.](https://www.hcaptcha.com/)

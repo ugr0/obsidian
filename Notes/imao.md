@@ -1,0 +1,1 @@
+「in my arrogant opinion」 = 私の大胆な意見（ぶっちゃけ）

@@ -1,0 +1,3 @@
+- Incremental Static Regeneration
+- [[SSG]]と[[SSR]]の間
+- 秒数を決めてキャッシュが返る

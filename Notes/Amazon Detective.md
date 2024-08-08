@@ -1,0 +1,3 @@
+- 潜在的なセキュリティ問題や不審なアクティビティの根本原因を簡単に分析し、調査し、素早く特定する
+- [[Amazon GuardDuty]]で発見した問題の兆候をさらに詳細に深掘りする用途などで使う
+- [Site Unreachable](https://aws.amazon.com/jp/detective/)

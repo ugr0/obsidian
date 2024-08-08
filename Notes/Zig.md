@@ -1,0 +1,1 @@
+- [Zig 言語の練習に AtCoder 202308 新ジャッジテストコンテスト A-E を解いてみた - Qiita](https://qiita.com/hossie/items/080f8d49ec445022284b)

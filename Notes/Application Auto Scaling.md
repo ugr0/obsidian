@@ -1,0 +1,2 @@
+- EC2以外
+- [Application Auto Scaling とは - Application Auto Scaling](https://docs.aws.amazon.com/ja_jp/autoscaling/application/userguide/what-is-application-auto-scaling.html)

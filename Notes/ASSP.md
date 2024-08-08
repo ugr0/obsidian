@@ -1,0 +1,1 @@
+**ASSP**とは、[半導体チップ](https://e-words.jp/w/%E9%9B%86%E7%A9%8D%E5%9B%9E%E8%B7%AF.html "半導体チップ")（[IC](https://e-words.jp/w/%E9%9B%86%E7%A9%8D%E5%9B%9E%E8%B7%AF.html "IC")）の製品分類の一種で、特定の用途や分野に特化した機能を搭載した[チップ](https://e-words.jp/w/%E3%83%81%E3%83%83%E3%83%97.html "チップ")のうち、[半導体](https://e-words.jp/w/%E5%8D%8A%E5%B0%8E%E4%BD%93.html "半導体")メーカーが自主的に設計・開発し、顧客に既成品として販売されるもの。

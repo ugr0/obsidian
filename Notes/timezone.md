@@ -1,0 +1,2 @@
+- [タイムゾーン呪いの書 (知識編)](https://zenn.dev/dmikurube/articles/curse-of-timezones-common-ja#%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E6%8A%80%E8%A1%93%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%99%82%E5%88%BB)
+- [タイムゾーン呪いの書 (実装編)](https://zenn.dev/dmikurube/articles/curse-of-timezones-impl-ja)

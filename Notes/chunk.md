@@ -1,0 +1,1 @@
+- [【Laravel】chunk と chunkById を比較してわかったこと – 株式会社クラフ](https://kraf.jp/blog/5620)

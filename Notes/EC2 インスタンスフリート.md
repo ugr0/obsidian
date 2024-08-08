@@ -1,0 +1,3 @@
+- [EC2 Fleet - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/ec2-fleet.html)
+- An _EC2 Fleet_ contains the configuration information to launch a fleet of instances.
+- _EC2 フリート_ には、インスタンスのフリート (つまり、グループ) を起動するための設定情報が含まれています。

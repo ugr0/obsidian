@@ -1,0 +1,2 @@
+- VMWare仮想マシンからの収集であればエージェントレス検出
+- エージェントベース検出は[[AWS Application Discovery Agent]]がある

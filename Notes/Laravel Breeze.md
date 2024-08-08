@@ -1,0 +1,1 @@
+-  [Fetching Title#ww9x](https://laravel.com/docs/10.x/starter-kits#laravel-breeze)

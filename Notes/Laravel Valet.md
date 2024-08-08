@@ -1,0 +1,1 @@
+- [Fetching Title#szaz](https://laravel.com/docs/10.x/valet)

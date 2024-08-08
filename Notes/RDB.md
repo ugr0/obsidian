@@ -1,0 +1,1 @@
+Relational Databaseの略語。

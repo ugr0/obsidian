@@ -1,0 +1,2 @@
+- Single Point Of Failure
+- 単一障害点

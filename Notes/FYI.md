@@ -1,0 +1,1 @@
+「For Your Information」 = 参考までに

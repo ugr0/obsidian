@@ -1,0 +1,3 @@
+- example.comなど
+- [[サブドメイン]]の例
+	- `www.example.com`

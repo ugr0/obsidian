@@ -1,0 +1,3 @@
+- [[Amazon S3]]バケット内のオブジェクトのリストを提供し、その詳細情報を含めることができる
+- 定期的に自動生成される
+- [Amazon S3 インベントリ - Amazon Simple Storage Service](https://docs.aws.amazon.com/ja_jp/AmazonS3/latest/userguide/storage-inventory.html)

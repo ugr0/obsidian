@@ -1,0 +1,2 @@
+- [The future of tbls and "Documentation as Code" / phpconfuk 2023 - Speaker Deck](https://speakerdeck.com/k1low/phpconfuk-2023)
+- [tblsとGitHub Actionsを使ってDBマイグレーションを含むPRには自動更新したER図を追加する - BASEプロダクトチームブログ](https://devblog.thebase.in/entry/auto_generated_er_graph_by_tbls_and_github_actions)

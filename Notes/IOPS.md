@@ -1,0 +1,2 @@
+- 1 秒あたりの入力/出力オペレーション数
+- [IOPS（I/O毎秒）とは - 意味をわかりやすく - IT用語辞典 e-Words](https://e-words.jp/w/IOPS.html)

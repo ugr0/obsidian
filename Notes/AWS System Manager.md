@@ -1,0 +1,9 @@
+- インタラクティブなワンクリックブラウザベースのシェルや、AWS Command Line Interfaceを介して、Amazon EC2, オンプレミスインスタンス、および仮想マシンを管理できる
+- [[AWS Systems Manager Session Manager]]
+- [[AWS Systems Manager Patch Manager]]
+- [[AWS Systems Manager Run Command]]
+- [[AWS Systems Manager Distributor]]
+- [[AWS Systems Manager Fleet Manager]]
+- Automation
+	- [[AWS Config]]で検知したものを自動修復する
+- インスタンスに接続するためには、AmazonSSMManagedInstanceCoreマネージドポリシーを持たせる必要がある

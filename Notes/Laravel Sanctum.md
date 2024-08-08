@@ -1,0 +1,3 @@
+- [Fetching Title#1p6s](https://laravel.com/docs/10.x/sanctum)
+- Laravel Sanctum は、API トークンの管理と、セッション Cookie またはトークンを使用した既存のユーザーの認証のみに関係する。 
+- Sanctum は、ユーザー登録、パスワードのリセットなどを処理するルートを提供しない。

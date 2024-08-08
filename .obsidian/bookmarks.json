@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "Notes/読書記録.md",
+      "ctime": 1683356215968
+    },
+    {
+      "type": "group",
+      "ctime": 1719060197859,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1701135317589,
+          "path": "Notes/📒開発環境.md",
+          "title": "📒開発環境"
+        }
+      ],
+      "title": "Develop"
+    },
+    {
+      "type": "group",
+      "ctime": 1719059624846,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1719059648409,
+          "path": "Notes/📒アーキテクチャ.md",
+          "title": "📒アーキテクチャ"
+        },
+        {
+          "type": "file",
+          "ctime": 1719059677017,
+          "path": "Notes/📒オブジェクト指向.md",
+          "title": "📒オブジェクト指向"
+        },
+        {
+          "type": "file",
+          "ctime": 1719059754813,
+          "path": "Notes/📒デザインパターン.md"
+        }
+      ],
+      "title": "Software Design"
+    },
+    {
+      "type": "group",
+      "ctime": 1719060044871,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1719060076453,
+          "path": "Notes/📒AWS.md"
+        }
+      ],
+      "title": "Infra"
+    },
+    {
+      "type": "group",
+      "ctime": 1719060118379,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1719060298204,
+          "path": "Notes/📒ウェブパフォーマンス.md"
+        }
+      ],
+      "title": "Frontend"
+    },
+    {
+      "type": "group",
+      "ctime": 1719060124973,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1719059912800,
+          "path": "Notes/📒DB設計.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1719060444029,
+          "path": "Notes/📒Laravel.md"
+        }
+      ],
+      "title": "Backend"
+    },
+    {
+      "type": "group",
+      "ctime": 1719060803479,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1719060826144,
+          "path": "Notes/📒GitHub Actions.md"
+        }
+      ],
+      "title": "DevOps"
+    },
+    {
+      "type": "file",
+      "ctime": 1719062127475,
+      "path": "Notes/📒Test.md"
+    }
+  ]
+}

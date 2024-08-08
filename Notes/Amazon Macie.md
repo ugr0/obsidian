@@ -1,0 +1,2 @@
+- 機械学習とパターンマッチングをし、Amazon S3などに保存されている機密データを検出して保護するサービス
+- [Amazon Macie（機械学習による機密データの検出、分類、保護）| AWS](https://aws.amazon.com/jp/macie/)

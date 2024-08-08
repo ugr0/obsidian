@@ -1,0 +1,2 @@
+- [Fetching Title#2qzj](https://laravel.com/docs/10.x/pennant)
+- [Laravel Pennant は](https://github.com/laravel/pennant)、無駄のない、シンプルで軽量な機能フラグ パッケージです。機能フラグを使用すると、新しいアプリケーション機能を自信を持って段階的にロールアウトしたり、新しいインターフェイス設計の A/B テストを行ったり、トランクベースの開発戦略を補完したりすることができます。

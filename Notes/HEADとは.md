@@ -1,0 +1,1 @@
+[GitのHEADとは何者なのか - Qiita](https://qiita.com/ymzkjpx/items/00ff664da60c37458aaa)

@@ -1,0 +1,1 @@
+- [高可用性対応の Amazon MQ アクティブ/スタンバイブローカー - Amazon MQ](https://docs.aws.amazon.com/ja_jp/amazon-mq/latest/developer-guide/active-standby-broker-deployment.html)

@@ -1,0 +1,7 @@
+- HSMはHardware Security Module
+	- AWSのデータセンター内に配置されるユーザー占有のハードウェアアプライアンス
+- それ自体がユーザーのVPC内に配置されて、他のネットワークから隔離される
+- セキュリティのコンプライアンス要件が厳しい場合に適用する
+- HSMと連携して暗号化処理できるAWSサービス
+	- [[Amazon Redshift]]
+	- [[Amazon RDS]] for Oracle

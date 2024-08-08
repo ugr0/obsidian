@@ -1,0 +1,3 @@
+- [Laravel Fortify - Laravel 10.x - The PHP Framework For Web Artisans](https://laravel.com/docs/10.x/fortify)
+- Laravel Fortify は基本的に Laravel Breeze のルートとコントローラーを取得し、ユーザーインターフェイスを含まないパッケージとして提供する。
+- これにより、特定のフロントエンドの意見に縛られることなく、アプリケーションの認証層のバックエンド実装を迅速に構築することができる

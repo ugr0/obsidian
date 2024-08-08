@@ -1,0 +1,1 @@
+-　[IAM ポリシー未設定の IAM ユーザーが生成した S3 署名付き URL (presigned URL) を使ってオブジェクトを Get できるのはなぜか | DevelopersIO](https://dev.classmethod.jp/articles/iam-and-presigned-url/)

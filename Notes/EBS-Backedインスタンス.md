@@ -1,0 +1,1 @@
+ - [[Amazon EBS]]をOSのルート領域として利用した[[Amazon EC2]]インスタンス

@@ -1,0 +1,3 @@
+- [Fetching Title#dp9n](https://laravel.com/docs/10.x/envoy)
+- リモートサーバー上で実行する一般的なタスクを実行するためのツール。
+- [Blade](https://laravel.com/docs/10.x/blade)スタイルの構文を使用すると、デプロイメントのタスクやアーティザン コマンドなどを簡単にセットアップできる。

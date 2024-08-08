@@ -1,0 +1,6 @@
+- AWS内におけるデータのバックアップを一元化, 自動化するサービス
+- [サービスとしての Backup - 一元化されたバックアップ - AWS Backup - AWS](https://aws.amazon.com/jp/backup/)
+- [[Amazon EBS]]以外のリソースはこれを使うのが良いらしい。
+	- EBSだと[[Amazon Data LifeCycle Manager]]も検討
+- バックアップできるサービス
+	- [AWS Backup | 一元化されたクラウドバックアップ | 特徴](https://aws.amazon.com/jp/backup/features/)

@@ -1,0 +1,1 @@
+「in my opinion」 = 私の意見では

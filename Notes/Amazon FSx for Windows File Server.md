@@ -1,0 +1,4 @@
+- Windowsサーバーで使われる[[SMB]]プロトコルを利用して、データのアクセスが可能なフルマネージドファイルサーバー
+- WindonsベースはもちろんLinuxベースの[[Amazon EC2]]インスタンスの共有ファイルストレージを提供できる
+	- [[Amazon EFS]]はLinuxだけ
+- [Amazon FSx for Windows File Server | クラウドファイルストレージ | Amazon Web Services](https://aws.amazon.com/jp/fsx/windows/)

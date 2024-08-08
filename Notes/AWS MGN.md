@@ -1,0 +1,3 @@
+- AWS Application Migration Service
+- オンプレミス環境やVMware仮想マシンなどからAWSへ、アプリケーションを移行するサービス
+- [AWS Application Migration Service を選ぶべき場合](https://aws.amazon.com/jp/application-migration-service/when-to-choose-aws-mgn/)

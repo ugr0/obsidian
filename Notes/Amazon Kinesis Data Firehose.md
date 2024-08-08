@@ -1,0 +1,3 @@
+- Amazon Kinesis Data Firehose は、[リアルタイムのストリーミングデータを](http://aws.amazon.com/streaming-data/) Amazon S3、Amazon Redshift、Amazon Service、Amazon Service、Amazon Service、Amazon Service、Amazon OpenSearch OpenSearch Service、およびDatadog、Dynatrace、MongoDB、New Relic、Coralogix、Elastic などのサポート対象のサードパーティサービスプロバイダーが所有するカスタム HTTP エンドポイントまたは HTTP エンドポイントなどの送信先に配信するためのフルマネージドサービス
+- 指定した送信先にデータが自動的に配信される
+- [Amazon Kinesis Data Firehose（ストリーミングデータをデータストアや分析ツールにロード）| AWS](https://aws.amazon.com/jp/kinesis/data-firehose/)

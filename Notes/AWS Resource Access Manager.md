@@ -1,0 +1,3 @@
+- [Site Unreachable](https://aws.amazon.com/jp/ram/)
+- 複数のアカウント間で、リソースを共有
+- AWSアカウントや[[AWS Organizations]]組織内でサブネットや、[[AWS Transit Gateway]]などのリソースを共有するサービス

@@ -1,0 +1,3 @@
+- 鍵の代わりにIAMポリシーを使用してアクセス制御を行い、コンソールやCLIからワンクリックでEC2インスタンスにログインできる。
+- Session Managerを使用すると、インバウンドポートを開いたり、踏み台ホストを維持したり、SSHキーを管理したりすることなく、監査可能なインスタンスを安全に管理できる。
+- [AWS Systems Manager Session Manager - AWS Systems Manager](https://docs.aws.amazon.com/ja_jp/systems-manager/latest/userguide/session-manager.html)

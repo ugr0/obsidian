@@ -1,0 +1,4 @@
+- サービスコントロールポリシー
+- [[AWS Organizations]]で管理されている複数のAWSアカウントに対してIAM ポリシーのような権限制御を統合的に管理・適用する機能
+- [SCP 評価 - AWS Organizations](https://docs.aws.amazon.com/ja_jp/organizations/latest/userguide/orgs_manage_policies_scps_evaluation.html#strategy_using_scps)
+- [サービスコントロールポリシー (SCP) - AWS Organizations](https://docs.aws.amazon.com/ja_jp/organizations/latest/userguide/orgs_manage_policies_scps.html)

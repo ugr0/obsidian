@@ -1,0 +1,1 @@
+- [Fetching Title#icn4](https://learn.microsoft.com/ja-jp/collections/o1njfe825p602p?WT.mc_id=AZ-MVP-5005287)

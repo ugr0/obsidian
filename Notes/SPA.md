@@ -1,0 +1,1 @@
+- [SPA化するMPAとMPA化するSPA ～TechFeed Experts Night#4 講演より | gihyo.jp](https://gihyo.jp/article/2022/11/tfen001-mpa_spa)

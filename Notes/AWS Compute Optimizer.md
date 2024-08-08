@@ -1,0 +1,6 @@
+- AWSリソースについて、設定項目のチェックやメトリクス分析を実行し、ワークロードを最適化するための推奨事項を作成するサービス
+	- [[Amazon EC2]]
+	- [[Amazon EBS]]
+	- [[AWS Lambda]]
+	- [[Amazon EC2 Auto Scaling]]
+- [AWS Compute Optimizer (ワークロードに最適なコンピューティングリソースを特定) | AWS](https://aws.amazon.com/jp/compute-optimizer/)

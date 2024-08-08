@@ -1,0 +1,2 @@
+- [Amazon RDS Proxy を使用したアプリケーションの可用性の向上 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/improving-application-availability-with-amazon-rds-proxy/)
+- [Site Unreachable](https://aws.amazon.com/jp/rds/proxy/)

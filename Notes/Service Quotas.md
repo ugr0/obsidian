@@ -1,0 +1,2 @@
+- [Service Quotas と Amazon CloudWatch アラーム - Service Quotas](https://docs.aws.amazon.com/ja_jp/servicequotas/latest/userguide/configure-cloudwatch.html)
+- それぞれのサービスのクォータを監視できる

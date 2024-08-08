@@ -1,0 +1,2 @@
+- AWS Serverless Application Model
+- [AWS サーバーレスアプリケーションモデル - アマゾン ウェブ サービス](https://aws.amazon.com/jp/serverless/sam/)

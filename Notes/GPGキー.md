@@ -1,0 +1,3 @@
+- [help understanding gpg --list--keys output - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/613839/help-understanding-gpg-list-keys-output)
+- [【令和最新版】PGP鍵の作り方から管理方法、Git Commitへの署名まで #Git - Qiita](https://qiita.com/shun-shobon/items/a944416bebb6207016fb)
+- [Git でコミット作成者を偽装する方法／署名付きコミットでの対策 #Git - Qiita](https://qiita.com/s6n/items/bb869f740a53a3bf169e)

@@ -1,0 +1,12 @@
+- Network Load Balancer
+- 機能面
+	- ターゲットから見た時、送信元IPがNLBではなくて、クライアントのIPになる（ALBではALBのIPになる)
+	- NLBにはセキュリティグループをつけれない。
+	- NLBはIPアドレスを固定できる
+	- 予期しないスパイクアクセスではNLBが安全
+- ターゲット
+	- [[Amazon EC2]]
+	- [[Amazon ECS]]
+	- IP
+- [Network Load Balancer とは? - Elastic Load Balancing](https://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/network/introduction.html#network-load-balancer-overview)
+- [Network Load Balancer の TLS リスナー - Elastic Load Balancing](https://docs.aws.amazon.com/ja_jp/elasticloadbalancing/latest/network/create-tls-listener.html)

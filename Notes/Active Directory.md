@@ -1,0 +1,1 @@
+[Active Directory - Wikipedia](https://ja.wikipedia.org/wiki/Active_Directory)

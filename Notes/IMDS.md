@@ -1,0 +1,2 @@
+インスタンスメタデータサービス
+[EC2 インスタンスメタデータサービスの拡張により、オープンなファイアウォール、リバースプロキシ、SSRFの脆弱性に対する防御を強化しました | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/defense-in-depth-open-firewalls-reverse-proxies-ssrf-vulnerabilities-ec2-instance-metadata-service/)

@@ -1,0 +1,2 @@
+- 最大100PB
+- [AWS Snowmobile (エクサバイト規模のデータ転送サービス) | AWS](https://aws.amazon.com/jp/snowmobile/)

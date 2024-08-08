@@ -1,0 +1,1 @@
+「Looks Good To Me」 = 良いと思います

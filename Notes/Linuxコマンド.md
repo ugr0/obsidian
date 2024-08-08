@@ -1,0 +1,1 @@
+- [/bin, /usr/bin, /usr/sbin, /usr/local/bin の違いとは？ #Linux - Qiita](https://qiita.com/valzer0/items/67a4c8bf2b1be0fc825a)

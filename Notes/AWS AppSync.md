@@ -1,0 +1,2 @@
+- GraphQLをマネージドで提供するサービス
+- [AWS AppSync（アプリデータをリアルタイムで保存、同期）| AWS](https://aws.amazon.com/jp/appsync/)

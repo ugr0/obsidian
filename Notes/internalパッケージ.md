@@ -1,0 +1,1 @@
+- [Goのinternalパッケージを使いこなそう - Qiita](https://qiita.com/tenntenn/items/d8db61720a5ce7fbdeb6)

@@ -1,0 +1,2 @@
+- [Laravelでコマンドラインアプリケーションを作成する - Qiita](https://qiita.com/nenokido2000/items/abbf70c87c9ad86a2b89)
+- [Laravel バッチ処理を作成する](https://zenn.dev/goemon/articles/0596e6f59e776d)

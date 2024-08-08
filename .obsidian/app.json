@@ -1,0 +1,12 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "promptDelete": true,
+  "attachmentFolderPath": "Files",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "showFrontmatter": false,
+  "livePreview": true,
+  "focusNewTab": false
+}

@@ -1,0 +1,6 @@
+- テスト環境にアタッチできる新しいAmazon EBS ボリュームとして復元できる
+- ブロックの初回アクセス時におけるI/Oオペレーションのレイテンシーがなくなる
+- 同じAZで作成されたEBSボリュームにしか適用されない
+- 明示的に有効化する必要がある
+- 通常の「EBSスナップショット復元」は、復元時間が長いため、効率的な負荷テストができない
+- [Amazon EBS 高速スナップショット復元 - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/ebs-fast-snapshot-restore.html)

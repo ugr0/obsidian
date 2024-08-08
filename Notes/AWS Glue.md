@@ -1,0 +1,1 @@
+- [AWS Glue（分析用データ抽出、変換、ロード (ETL) ）| AWS](https://aws.amazon.com/jp/glue/)

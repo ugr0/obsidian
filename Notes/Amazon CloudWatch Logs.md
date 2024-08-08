@@ -1,0 +1,2 @@
+- サブスクリプションでログデータのリアルタイム処理ができる
+	- [サブスクリプションを使用したログデータのリアルタイム処理 - Amazon CloudWatch Logs](https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/logs/Subscriptions.html)

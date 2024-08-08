@@ -1,0 +1,1 @@
+- [Compute Savings Plans – アマゾン ウェブ サービス](https://aws.amazon.com/jp/savingsplans/compute-pricing/)

@@ -1,0 +1,3 @@
+- Internet Small Computer System Interface
+- アイスカジーというっぽい
+- [iSCSI - Wikipedia](https://ja.wikipedia.org/wiki/ISCSI)

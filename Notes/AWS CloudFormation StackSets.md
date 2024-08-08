@@ -1,0 +1,3 @@
+- 複数リージョンの複数のAWSでアカウントに渡って、[[AWS CloudFormation]]スタックをロールアウトできるようになる
+- 例えば、[[AWS IAM]]ロールの集中デプロイ、[[Amazon EC2]]や[[AWS Lambda]]のプロビジョニングが可能となる
+- [新機能: AWS CloudFormation StackSets が AWS Organization のマルチアカウントで利用可能に | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/new-use-aws-cloudformation-stacksets-for-multiple-accounts-in-an-aws-organization/)

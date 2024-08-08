@@ -1,0 +1,1 @@
+- [PHP の PSR-0 と PSR-4 で autoloader の違いと名前空間の基礎 #PHP - Qiita](https://qiita.com/KEINOS/items/2924ecde3e4bab0ead7e)

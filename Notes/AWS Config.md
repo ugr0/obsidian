@@ -1,0 +1,14 @@
+- [[AWS CloudTrail]]はユーザーの操作を追跡するサービスだが、AWS Configは*リソースの構成変更履歴*に特化した監視サービス
+- 「定期的」な評価と「設定変更」の評価がある
+- マネージドルール、カスタムルールを作れる
+- restricted-ssh
+	- セキュリティグループの受信 SSH トラフィックがアクセス可能かどうかを確認します。セキュリティグループの受信 SSH トラフィックの IP アドレスが制限されている場合 (0.0.0.0/0 以外の CIDR)、ルールは COMPLIANT です。このルールは、IPv4 のみに適用されます。
+	- [restricted-ssh - AWS Config](https://docs.aws.amazon.com/ja_jp/config/latest/developerguide/restricted-ssh.html)
+- access-keys-rotated
+	- アクティブなアクセスキーが、`maxAccessKeyAge` で指定された日数内にローテーションされるかどうかを確認します。アクセスキーが最大日数の `maxAccessKeyAge` を超えても更新されていない場合、ルールは NON_COMPLIANT です。
+	- [access-keys-rotated - AWS Config](https://docs.aws.amazon.com/ja_jp/config/latest/developerguide/access-keys-rotated.html)
+- Configルールによって準拠しないリソースがある場合は、修復アクションを１０個する。[[AWS System Manager]] Automationによって、運用タスクを実行できる
+	- [「AWS Configルール」と「AWS Systems Manager」の「Automation」を利用したリスクあるリソースの自動検知、自動修復：AWSチートシート - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2102/15/news012.html#l_news012_00.png&_ga=2.100473565.259468023.1691584589-842016907.1676248115:~:text=%E3%81%BE%E3%81%9AConfig%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%89%E3%83%AB%E3%83%BC%E3%83%AB%E3%81%AE%E3%80%8Crestricted%2Dssh%E3%80%8D%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6SSH%E3%81%8C%E5%85%A8%E9%96%8B%E6%94%BE%E3%81%95%E3%82%8C%E3%81%9F%E3%81%93%E3%81%A8%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E8%A8%AD%E5%AE%9A%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E3%81%9D%E3%81%AE%E4%B8%8A%E3%81%A7%E3%80%81SSH%E3%81%AE%E5%85%A8%E9%96%8B%E6%94%BE%E3%82%92%E6%A4%9C%E7%9F%A5%E3%81%97%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AE%E8%87%AA%E5%8B%95%E4%BF%AE%E5%BE%A9%E3%81%AB%E3%81%AF%E3%80%8CAWS%20Systems%20Manager%E3%80%8D%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%BE%E3%81%99%E3%80%82)
+	- CloudTrailの証跡有効化
+	- S3バケットの非公開化
+	- EC2インスタンスの停止

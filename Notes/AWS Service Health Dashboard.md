@@ -1,0 +1,4 @@
+- リージョン規模の障害といった公開イベントなど載っている
+- サービス単位でhealthチェックが見れる
+- [Service health - Dec 27, 2023 | AWS Health Dashboard | Global](https://health.aws.amazon.com/health/status)
+- [AWS Healthダッシュボード — サービス状態 - AWS Health](https://docs.aws.amazon.com/ja_jp/health/latest/ug/aws-health-dashboard-status.html)

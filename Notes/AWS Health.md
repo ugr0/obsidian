@@ -1,0 +1,2 @@
+- AWS Healthリソースのパフォーマンスと自分の AND アカウントの可用性を継続的に把握できますAWS のサービス。AWS Health _イベント_を使用して、サービスおよびリソースの変更が AWS で実行されているアプリケーションにどのように影響するかを確認できます。
+- [AWS Health の概要 - AWS Health](https://docs.aws.amazon.com/ja_jp/health/latest/ug/what-is-aws-health.html)

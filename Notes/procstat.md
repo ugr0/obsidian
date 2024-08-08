@@ -1,0 +1,2 @@
+- [procstat プラグインでプロセスメトリクスを収集する - Amazon CloudWatch](https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/monitoring/CloudWatch-Agent-procstat-process-metrics.html)
+- [procstat プラグインでプロセスメトリクスを収集する - Amazon CloudWatch](https://docs.aws.amazon.com/ja_jp/AmazonCloudWatch/latest/monitoring/CloudWatch-Agent-procstat-process-metrics.html#CloudWatch-Agent-procstat-process-metrics-collected)

@@ -1,0 +1,2 @@
+- Auroraクラスター内のレプリカを動的に増やす
+- [Aurora レプリカでの Amazon Aurora Auto Scaling の使用 - Amazon Aurora](https://docs.aws.amazon.com/ja_jp/AmazonRDS/latest/AuroraUserGuide/Aurora.Integrating.AutoScaling.html)

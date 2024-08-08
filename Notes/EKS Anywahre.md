@@ -1,0 +1,1 @@
+- [[EKS Distro]]を使用して、AWS以外の環境に構築されたKubernetesクラスターをAWSのEKSコンソールで管理したい場合に使用する。

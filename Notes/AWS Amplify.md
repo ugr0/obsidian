@@ -1,0 +1,9 @@
+- Webアプリケーションやモバイルアプリの開発、デプロイ、管理を簡単に行うための開発プラットフォーム
+- 似ているサービスとして[[Amazon Elastic Beanstalk]]がある
+- アプリケーション開発の簡略化と迅速化が利用する目的となる
+- ツール
+	- Amplify CLI
+	- Amplify Framework
+	- Amplify Developer Tools
+- [[AWS Amplify Hosting]]
+- [AWS Amplify（アプリケーションの構築とデプロイ）| AWS](https://aws.amazon.com/jp/amplify/)

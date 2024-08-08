@@ -1,0 +1,4 @@
+- 通常はデータベースインスタンスが起動しておらず、データが格納されているボリュームだけが存在する。
+- SQLのリクエストを受け取って初めてデータベースインスタンスが起動し、SQLの処理をする。
+- 利用頻度があまり高くないアプリケーションや、*負荷が一定ではないアプリケーション*のデータ格納に適している。
+- [Amazon Aurora とは - Amazon Aurora](https://docs.aws.amazon.com/ja_jp/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview.html)

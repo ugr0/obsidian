@@ -1,0 +1,1 @@
+- [AWS Systems Manager Fleet Manager - AWS Systems Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/fleet.html)

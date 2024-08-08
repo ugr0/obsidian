@@ -1,0 +1,2 @@
+- [AWS Systems Manager Run Command - AWS Systems Manager](https://docs.aws.amazon.com/ja_jp/systems-manager/latest/userguide/run-command.html)
+- 管理者は、Run Command を使用することで、アプリケーションのインストールまたはブートストラップ、デプロイ パイプラインの構築、Auto Scaling グループからインスタンスが削除された時のログ ファイルのキャプチャ、インスタンスの Windows ドメインへの結合といったタスクを実行できます。

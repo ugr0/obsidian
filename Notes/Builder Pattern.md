@@ -1,0 +1,1 @@
+[[Functional Options Pattern]]と対比される実装パターンで、メソッドチェーンを用いることで、Buildメソッドに与える初期値を決定する方法

@@ -1,0 +1,1 @@
+- [【AWS Systems Manager】パッチマネージャーの パッチベースライン と パッチグループ の概念を勉強する | DevelopersIO](https://dev.classmethod.jp/articles/patchmanager-baseline-and-group/#toc-2)

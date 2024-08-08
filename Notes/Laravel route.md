@@ -1,0 +1,1 @@
+- [Laravelのルーティングとは（徹底解説） ｜Kinsta®](https://kinsta.com/jp/blog/laravel-routes/)

@@ -1,0 +1,2 @@
+- [オープンソースモニタリング - Amazon Managed Service for Prometheus - Amazon Web Services](https://aws.amazon.com/jp/prometheus/)
+- [Grafana ダッシュボード - Amazon Managed Service for Grafana - AWS](https://aws.amazon.com/jp/grafana/)

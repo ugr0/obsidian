@@ -1,0 +1,3 @@
+- オリジンアクセスアイデンティティ
+- [[Amazon CloudFront]]のみにS3バケットのアクセスを許可して、コンテンツをできるようにし、ユーザーにはCloudFrontにだけアクセスを許可できるようにする
+- [Amazon S3 オリジンへのアクセスの制限 - Amazon CloudFront](https://docs.aws.amazon.com/ja_jp/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html)

@@ -1,0 +1,2 @@
+- [docker buildx bakeで複数のイメージを並列でビルドする](https://zenn.dev/ciffelia/articles/f11d26e9b72a5d)
+- [docker/setup-buildx-action で複数のイメージを扱う - みーのぺーじ](https://pc.atsuhiro-me.net/entry/2023/02/05/111750)

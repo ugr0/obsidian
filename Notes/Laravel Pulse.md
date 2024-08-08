@@ -1,0 +1,2 @@
+- [Fetching Title#llox](https://laravel.com/docs/10.x/pulse)
+- [Fetching Title#mdn9](https://zenn.dev/kuropanda63/articles/bfa1e5d4918156)

@@ -1,0 +1,6 @@
+- Virtual Private Gateway
+- 仮想プライベートゲートウェイ
+- VPCごとに作成されるVPNエンドポイント
+- 各VPCに1つだけアタッチ可能
+- 複数の[[AWS Direct Connect]]やVPNとは接続できる
+- 専用線のサービスである[[AWS Direct Connect]]や、VPN経由で直接的にインターネットから出ることなく、各オンプレミス環境とローカル通信可能

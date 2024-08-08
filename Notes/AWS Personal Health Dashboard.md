@@ -1,0 +1,4 @@
+- お客様の環境に影響を及ぼす可能性のある AWS イベントのアラートやガイダンスを提供します
+- 「サービス障害、メンテナンス情報」を提供するもの
+- 公開イベントに関しては[[AWS Service Health Dashboard]]を利用する
+- [AWS Personal Health Dashboard](https://aws.amazon.com/jp/premiumsupport/technology/personal-health-dashboard/)

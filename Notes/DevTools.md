@@ -1,0 +1,1 @@
+- [ブラウザ拡張の JavaScript を開発者ツール DevTools で効率良く調査する - Techtouch Developers Blog](https://tech.techtouch.jp/entry/inspect-chrome-extension-by-devtools#In-app-performance-%E3%81%AB%E9%87%8D%E7%82%B9%E3%82%92%E7%BD%AE%E3%81%8F)

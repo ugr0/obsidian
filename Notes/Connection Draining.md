@@ -1,0 +1,2 @@
+- インスタンスをELBから登録解除させるときに、サーバーの処理が完了するまで解除を遅延させることができる
+- [ELB Connection Draining機能を使ってメンテ時にインスタンスを外す | DevelopersIO](https://dev.classmethod.jp/articles/elb-connection-draining/)
