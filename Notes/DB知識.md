@@ -1,0 +1,1 @@
+- [データベースを遅くするための８つの方法](https://zenn.dev/koduki/articles/d3e8984f420b370681f9)

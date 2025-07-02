@@ -1,0 +1,2 @@
+- [MySQLでIn句に大量の要素を渡すとまずい理由](https://zenn.dev/nasu/articles/410bdb9739cd35)
+- [MySQL(InnoDB)における各種ロックの挙動を調べてみた](https://zenn.dev/team_soda/articles/ca38e7f58ed8a1#%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97%E3%83%AD%E3%83%83%E3%82%AF)

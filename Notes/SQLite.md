@@ -1,0 +1,1 @@
+- [利用者は数十億人！？ SQLiteはどこが凄いデータベース管理システムなのか調べてみた #ShellScript - Qiita](https://qiita.com/ko1nksm/items/87d27a287e1b6005d11c)

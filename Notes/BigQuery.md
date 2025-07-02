@@ -8,3 +8,5 @@ BigQuery のサーバーレス アーキテクチャにより、SQL クエリを
 # 参考資料
 - [BigQuery とは  |  Google Cloud](https://cloud.google.com/bigquery/docs/introduction?hl=ja)
 - [Google BigQueryは何がすごいのか？](https://www.dsk-cloud.com/blog/what-is-google-bigquery)
+- [BigQueryを徹底解説！(基本編) - G-gen Tech Blog](https://blog.g-gen.co.jp/entry/bigquery-explained-basics)
+- [BigQueryを徹底解説！(応用編) - G-gen Tech Blog](https://blog.g-gen.co.jp/entry/bigquery-explained-advanced)
