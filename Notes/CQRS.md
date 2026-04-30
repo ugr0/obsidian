@@ -9,4 +9,4 @@
 
 # 参考
 - [CQRS パターン - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/architecture/patterns/cqrs)
-- [[📚良いコード／悪いコードで学ぶ設計入門(ミノ駆動本)]]
+- [[_books_良いコード／悪いコードで学ぶ設計入門(ミノ駆動本)]]
