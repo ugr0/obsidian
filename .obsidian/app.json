@@ -8,5 +8,6 @@
   "newFileFolderPath": "Notes",
   "showFrontmatter": false,
   "livePreview": true,
-  "focusNewTab": false
+  "focusNewTab": false,
+  "strictLineBreaks": false
 }
