@@ -1,0 +1,8 @@
+views:
+  - type: list
+    name: books
+    filters:
+      and:
+        - file.name.startsWith("_books")
+    order:
+      - file.name

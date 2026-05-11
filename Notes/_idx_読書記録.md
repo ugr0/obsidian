@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: basic
+kanban-plugin: board
 
 ---
 
@@ -31,6 +31,7 @@ kanban-plugin: basic
 - [ ] [[_books_ソフトウェアアーキテクチャの基礎]]
 - [ ] [[_books_達人に学ぶSQL徹底指南書第２版]]
 - [ ] [[_books_試して理解 Linuxのしくみ]]
+- [ ] [[_books_ネットワークはなぜ繋がるのか]]
 
 
 ## 進行中
@@ -61,6 +62,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","show-checkboxes":true,"prepend-archive-date":true,"show-relative-date":true,"show-view-as-markdown":true,"show-archive-all":true,"show-add-list":true,"link-date-to-daily-note":true,"archive-with-date":true}
+{"kanban-plugin":"board","show-checkboxes":true,"prepend-archive-date":true,"show-relative-date":true,"show-view-as-markdown":true,"show-archive-all":true,"show-add-list":true,"link-date-to-daily-note":true,"archive-with-date":true}
 ```
 %%
