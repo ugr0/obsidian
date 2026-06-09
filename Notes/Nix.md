@@ -1,0 +1,3 @@
+- https://zenn.dev/trifolium/books/1c0373f3570334
+- https://zenn.dev/asa1984/books/nix-introduction
+- https://nix.dev/manual/nix/2.25/introduction
