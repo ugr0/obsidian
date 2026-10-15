@@ -1,3 +1,6 @@
+# 開発環境
+- [[Python 開発環境 2026]]
+
 # モジュール
 - [6. モジュール — Python 3.8.17 ドキュメント](https://docs.python.org/ja/3.8/tutorial/modules.html)
 - [[init.py]]
